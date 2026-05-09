@@ -1,0 +1,8 @@
+- generic [ref=e19]:
+  - heading "Login" [level=2] [ref=e20]
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]: E-mail
+      - textbox [ref=e24]: meenakshi.sundaram.s@ey.com
+      - generic [ref=e25]: Please enter your e-mail id to continue
+    - button "Login" [active] [ref=e27] [cursor=pointer]

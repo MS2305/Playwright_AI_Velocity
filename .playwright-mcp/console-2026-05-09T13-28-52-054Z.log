@@ -1,0 +1,12 @@
+[     515ms] [LOG] {userId: -1, firstName: Meenakshi Sundaram, lastName: S, preferredName: Meenakshi Sundaram S, userEmail: null} @ https://velocity.vel-qa1.ey.com/main.292abcf1f017d8fa.js:0
+[    1329ms] [LOG] {continueValidationMessage: You have scored your aspirational value lower than…current value. Are you sure you want to continue?, textFocus: Focus, textScore: Score, textSubdrivers: Subdrivers, textLeading: LEADING} @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    1543ms] [LOG] my view @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    1820ms] [LOG] [Object, Object, Object, Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    1824ms] [LOG] {GrowthPlanDetails: Object, GrowthPlanOwnerDetails: Object, GrowthPlanFacilitatorDetails: null, ClientAttendees: null, EYAttendees: null} @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2015ms] [LOG] [Object, Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2015ms] [LOG] [Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[   47096ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://velocityapi.vel-qa1.ey.com/api/user/CheckAuth:0
+[   47271ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://velocityapi.vel-qa1.ey.com/api/user/CheckAuth:0
+[   47732ms] [LOG] false @ https://velocity.vel-qa1.ey.com/154.1cdf5450864f3c22.js:0
+[   47734ms] [LOG] routeAuth /welcome @ https://velocity.vel-qa1.ey.com/154.1cdf5450864f3c22.js:0
+[   47736ms] [LOG] PageContents {lblLoading: Loading, lblFooterPrivacy: Privacy, lblFooterCodeOfConduct: Global code of conduct, lblFooterContact: Contact us, lblFooterDescription1: <p>EY exists to build a better working world, help… about our organization, please visit ey.com.</p>} @ https://velocity.vel-qa1.ey.com/154.1cdf5450864f3c22.js:0
