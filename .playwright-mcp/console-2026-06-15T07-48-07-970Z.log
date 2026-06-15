@@ -1,0 +1,7 @@
+[    1032ms] [LOG] {userId: -1, firstName: Meenakshi Sundaram, lastName: S, preferredName: Meenakshi Sundaram S, userEmail: null} @ https://velocity.vel-qa1.ey.com/main.292abcf1f017d8fa.js:0
+[    1969ms] [LOG] {continueValidationMessage: You have scored your aspirational value lower than…current value. Are you sure you want to continue?, textFocus: Focus, textScore: Score, textSubdrivers: Subdrivers, textLeading: LEADING} @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2440ms] [LOG] my view @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2693ms] [LOG] [Object, Object, Object, Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2695ms] [LOG] {GrowthPlanDetails: Object, GrowthPlanOwnerDetails: Object, GrowthPlanFacilitatorDetails: null, ClientAttendees: null, EYAttendees: null} @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2915ms] [LOG] [Object, Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0
+[    2916ms] [LOG] [Object, Object, Object, Object] @ https://velocity.vel-qa1.ey.com/5.1ac7ef8855212000.js:0

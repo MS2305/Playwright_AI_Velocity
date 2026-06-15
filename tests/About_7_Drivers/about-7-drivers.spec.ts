@@ -22,6 +22,11 @@ test.describe('About 7 Drivers Flow', () => {
     await dashboardPage.expectDashboardLoaded();
     await dashboardPage.expectWelcomeMessage('Meenakshi Sundaram S');
 
+   //await page.screenshot({path : './Screenshots/about-7-drivers.png', fullPage: true});
+
+    await dashboardPage.clickYesToAccept();
+
+
     // 3. Click the 'Focus' menu in the top navigation
     await aboutPage.clickFocusMenu();
 

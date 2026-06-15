@@ -22,7 +22,7 @@ export class AboutSevenDriversPage {
   }
 
   async expectAboutPageLoaded() {
-    await expect(this.pageTitle).toBeVisible();
+    await expect((this.pageTitle).first()).toBeVisible();
     await expect(this.page).toHaveURL(/\/focus\/about-seven-drivers$/);
   }
 
